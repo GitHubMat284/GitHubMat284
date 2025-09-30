@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Matheo, nthusiastic and driven undergraduate computer science student with a passion for technology and innovation. 
+I'm Matheo, enthusiastic and driven undergraduate computer science student with a passion for technology and innovation. 
 Currently pursuing Bachelor of Computer Science Honours (Co-op Option) at University of Manitoba, with an interest on 
 cybersecurity, and web/app development.
 
